@@ -1,21 +1,21 @@
-[×] `apt update`
+**[×]** `apt update`
 
 
-[×] `apt upgrade`
+**[×]** `apt upgrade`
 
 
-[×] `pkg install git`
+**[×]** `pkg install git`
 
 
-[×] `pkg install puthon`
+**[×]** `pkg install puthon`
 
 
-[×] `git clone https://github.com/NuIICoder/SmsBomber`
+**[×]** `git clone https://github.com/NuIICoder/SmsBomber`
 
-[×] `ls`
+**[×]** `ls`
 
-[×] `cd SmsBomber`
+**[×]** `cd SmsBomber`
 
-[×] `python Bomber. py`
+**[×]** `python Bomber. py`
 
-[NoneCoder](https://t.me/NoneCoder)
+ 🖇[**NoneCoder**](https://t.me/NoneCoder)
