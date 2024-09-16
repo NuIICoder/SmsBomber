@@ -16,6 +16,6 @@
 
 **[×]** `cd SmsBomber`
 
-**[×]** `python Bomber. py`
+**[×]** `python Bomber.py`
 
  🖇[**NoneCoder**](https://t.me/NoneCoder)
