@@ -7,7 +7,7 @@
 **[×]** `pkg install git`
 
 
-**[×]** `pkg install puthon`
+**[×]** `pkg install python`
 
 
 **[×]** `git clone https://github.com/NuIICoder/SmsBomber`
