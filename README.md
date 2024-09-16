@@ -17,3 +17,5 @@
 [×] `cd SmsBomber`
 
 [×] `python Bomber. py`
+
+[NoneCoder](https://t.me/NoneCoder)
